@@ -1,0 +1,6 @@
+,Name,Kenerl Time (ns)
+0,cudaMallocManaged,151605477.5
+1,cudaDeviceSynchronize,288183.3
+2,cudaLaunchKernel,60252.8
+3,cudaFree,31516.7
+4,sum_above,151985430.3

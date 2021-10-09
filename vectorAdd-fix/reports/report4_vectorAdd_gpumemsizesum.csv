@@ -1,0 +1,2 @@
+Total,Operations,Average,Minimum,Maximum,StdDev,Operation
+512.000,9,56.889,4.000,252.000,79.140,[CUDA Unified Memory memcpy HtoD]

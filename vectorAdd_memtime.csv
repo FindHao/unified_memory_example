@@ -1,0 +1,4 @@
+,Operation,Total
+0,[CUDA Unified Memory memcpy HtoD],35035.0
+1,[CUDA Unified Memory memcpy DtoH],12055.6
+2,sum_above,47090.6

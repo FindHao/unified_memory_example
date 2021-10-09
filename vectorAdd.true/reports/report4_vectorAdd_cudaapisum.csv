@@ -1,0 +1,5 @@
+Time(%),Total Time (ns),Num Calls,Average,Minimum,Maximum,StdDev,Name
+99.2,148836660,2,74418330.0,15469,148821191,105221535.1,cudaMallocManaged
+0.7,1002133,1,1002133.0,1002133,1002133,0.0,cudaDeviceSynchronize
+0.1,108250,2,54125.0,26160,82090,39548.5,cudaFree
+0.0,65090,2,32545.0,29500,35590,4306.3,cudaLaunchKernel

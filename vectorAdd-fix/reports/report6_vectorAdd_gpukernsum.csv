@@ -1,0 +1,2 @@
+Time(%),Total Time (ns),Instances,Average,Minimum,Maximum,StdDev,Name
+100.0,268864,2,134432.0,122880,145984,16337.0,"add(int, float*)"

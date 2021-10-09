@@ -1,0 +1,2 @@
+Time(%),Total Time (ns),Operations,Average,Minimum,Maximum,StdDev,Operation
+100.0,55931,9,6214.6,2079,21568,6175.4,[CUDA Unified Memory memcpy HtoD]
