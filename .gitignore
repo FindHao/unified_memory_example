@@ -1,3 +1,6 @@
 *.o
 *.sqlite
 *.qdrep
+hpctoolkit-*-measurements
+*.hpcstruct
+*/vectorAdd
